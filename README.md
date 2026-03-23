@@ -178,7 +178,7 @@ CATERPILLAR/
 │   ├── large_step_results.mat      ← Evaluation test case results
 │   └── specific_cases.mat          ← All 5 step/shed case results
 │
-├── plots/                ← All 27 output figures
+├── plots/                          ← All 27 output figures
 │
 ├── anfis_kp_wrapper.m              ← Kp ANFIS wrapper for Simulink
 ├── anfis_ki_wrapper.m              ← Ki ANFIS wrapper for Simulink
