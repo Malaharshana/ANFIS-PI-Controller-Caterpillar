@@ -10,7 +10,7 @@
 
 >  **[https://drive.google.com/file/d/1-rpxumNKw2VEVpPhtcs_dzVkoBfGP9F6/view?usp=sharing]**
 
-![Simulink Dashboard Demo](assets/simulink_dashboard)
+![Simulink Dashboard Demo](assets/simulink_dashboard.png)
 *Real-time Simulink dashboard — disturbance slider, live RPM display, adaptive gain readouts*
 
 ---
